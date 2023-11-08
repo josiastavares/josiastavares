@@ -1,6 +1,6 @@
 <h1>Bem vindo ao meu perfil!</h1>
 <div>
-  <a href="https://github.com/josiastavares">  
+  <a href="https://beacons.ai/edutavares">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josiastavares&show_icons=true&theme=radical&locale=pt-br"/>
   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiastavares&layout=donut&theme=radical&locale=pt-br"/>
   </a>
@@ -28,8 +28,12 @@
 - 🔭 Atualmente trabalho com desenvolvimento de sites wordpress com elementor
 - 🌱 Faço faculdade de Sistemas para Internet na fiap, além de estudar a parte em cursos online.
 - 📫 Meus contatos:
-  - Linkedin: <a href="https://www.linkedin.com/in/eduardodossantostavares/">Eduardo Dos Santos Tavares</a>
-  - WhatsApp: <a href="tel:+5511996473145">11 99547-3145</a>
-  - E-mail: <a href="mailto:eduardosantostavares13@gmail.com">eduardosantostavares13@gmail.com</a>
+<div>
+  <a href="https://www.linkedin.com/in/eduardodossantostavares/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5511996473145"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:eduardosantostavares13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 - 😄 Pronomes: Ele/dele
 - ⚡ Curiosidade: Gosto de experimentar coisas novas, ainda mais se forem radicais, como andar de skate, surfar, aprender uma nova tecnologia...
+
+![Snake animation](https://github.com/josiastavares/josiastavares/blob/output/github-contribution-grid-snake.svg)
