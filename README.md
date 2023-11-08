@@ -35,5 +35,3 @@
 </div>
 - 😄 Pronomes: Ele/dele
 - ⚡ Curiosidade: Gosto de experimentar coisas novas, ainda mais se forem radicais, como andar de skate, surfar, aprender uma nova tecnologia...
-
-![Snake animation](https://github.com/josiastavares/josiastavares/blob/output/github-contribution-grid-snake.svg)
