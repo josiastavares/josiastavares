@@ -1,8 +1,8 @@
 <h1>Bem vindo ao meu perfil!</h1>
 <div>
   <a href="https://github.com/josiastavares">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josiastavares&show_icons=true&theme=radical"/>
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiastavares&layout=donut"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josiastavares&show_icons=true&theme=radical&locale=pt-br"/>
+  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiastavares&layout=donut&locale=pt-br"/>
 </div>
 
 <div width="100%" style="display: inline_block; text-align:center;"><br>
