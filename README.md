@@ -22,16 +22,14 @@
 </div>
 
 <hr>
-
-<h2>Alguns fatos sobre mim</h2>
-
-- 🔭 Atualmente trabalho com desenvolvimento de sites wordpress com elementor
-- 🌱 Faço faculdade de Sistemas para Internet na fiap, além de estudar a parte em cursos online.
-- 📫 Meus contatos:
+<b>Meus contatos:</b>
 <div>
   <a href="https://www.linkedin.com/in/eduardodossantostavares/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://api.whatsapp.com/send?phone=5511996473145"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="mailto:eduardosantostavares13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-- 😄 Pronomes: Ele/dele
+<h2>Alguns fatos sobre mim</h2>
+
+- 🔭 Atualmente trabalho com desenvolvimento de sites wordpress com elementor
+- 🌱 Faço faculdade de Sistemas para Internet na fiap, além de estudar a parte em cursos online.
 - ⚡ Curiosidade: Gosto de experimentar coisas novas, ainda mais se forem radicais, como andar de skate, surfar, aprender uma nova tecnologia...
