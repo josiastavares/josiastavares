@@ -30,6 +30,6 @@
 </div>
 <h2>Alguns fatos sobre mim</h2>
 
-- 🔭 Atualmente trabalho com desenvolvimento de sites wordpress com elementor
+- 🔭 Atualmente trabalho como Desenvolvedor Front End Junior.
 - 🌱 Faço faculdade de Sistemas para Internet na fiap, além de estudar a parte em cursos online.
 - ⚡ Curiosidade: Gosto de experimentar coisas novas, ainda mais se forem radicais, como andar de skate, surfar, aprender uma nova tecnologia...
